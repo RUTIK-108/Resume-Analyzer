@@ -1,0 +1,11 @@
+Python
+Java
+SQL
+Machine Learning
+Deep Learning
+NLP
+Excel
+Power BI
+AWS
+Docker
+Kubernetes

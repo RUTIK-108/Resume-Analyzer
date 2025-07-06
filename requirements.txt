@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+nltk
+spacy
+python-docx
+pdfplumber
+PyMuPDF
+wordcloud
